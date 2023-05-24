@@ -11,4 +11,9 @@ div {
 img {
   height: 100px;
   width: 100px;
+  align: center;
+  float: inline-end;
+}
+h3 {
+  text-align: center;
 }
